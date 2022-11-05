@@ -1,0 +1,17 @@
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\Smart-POS-System.csproj.AssemblyReference.cache
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\Smart_POS_System.Form1.resources
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\Smart-POS-System.csproj.GenerateResource.cache
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\Smart-POS-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\Smart-POS-System.AssemblyInfoInputs.cache
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\Smart-POS-System.AssemblyInfo.cs
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\Smart-POS-System.csproj.CoreCompileInputs.cache
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\bin\Debug\net6.0-windows\Smart-POS-System.exe
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\bin\Debug\net6.0-windows\Smart-POS-System.deps.json
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\bin\Debug\net6.0-windows\Smart-POS-System.runtimeconfig.json
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\bin\Debug\net6.0-windows\Smart-POS-System.dll
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\bin\Debug\net6.0-windows\Smart-POS-System.pdb
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\Smart-POS-System.dll
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\refint\Smart-POS-System.dll
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\Smart-POS-System.pdb
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\Smart-POS-System.genruntimeconfig.cache
+C:\Users\Naduni\Desktop\WEEK END VAP\Smart-POS-System\obj\Debug\net6.0-windows\ref\Smart-POS-System.dll
